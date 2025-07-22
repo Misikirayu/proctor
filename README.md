@@ -94,7 +94,7 @@ Proctor is a state-of-the-art online examination proctoring system that leverage
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/proctor.git
+   git clone https://github.com/Misikirayu/proctor.git
    cd proctor
    ```
 

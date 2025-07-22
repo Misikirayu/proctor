@@ -1,0 +1,42 @@
+# Client .gitignore for React (MERN stack) project
+
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Build output
+build/
+dist/
+
+# Test coverage
+coverage/
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Misc
+*.local
+*.cache
+*.log
+
+# Ignore lock files (optional, if using only yarn or npm, adjust as needed)
+package-lock.json
+yarn.lock
